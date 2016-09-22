@@ -1,0 +1,56 @@
+.ice{
+	background-image: url(../img/creamy.jpg);
+	background-position: center;
+	margin-top: -20px;
+	color:white;
+	font-family: Merryweather;	
+}
+.bg{ 
+ 	background-color: rgba(7, 7, 7, 0.5); 
+ 	opacity: 0,5; 
+ 	filter: alpha(opacity=); 
+ 	padding: 10% 0; 
+ } 
+ 
+.icecream2{
+	padding:5%;
+	background-color: #f4f0bb;
+	color:#da2c38;
+	font-family: Merryweather;
+}
+.about{
+	background-color: #da2c38;
+	color:#f4f0bb; 
+	padding:3% ;
+	font-family: Merryweather;
+}
+footer{
+	background-color:#da2c38;
+	color:#f4f0bb;
+	padding:1% 5%;
+	font-family: Merryweather;
+}
+.iconos{
+	background-color: #f4f0bb;
+}
+nav.navbar {
+    background-color: #da2c38;
+    border-color:#da2c38;
+    padding: 0 5%;
+}
+
+header{
+	background-color: #da2c38;
+}
+.txt{
+	font-size:500%;
+}
+.iconos{
+	color:#da2c38;
+	padding:5%;
+	font-family: Merryweather;
+}
+span{
+	color:#f4f0bb;
+	font-family: Merryweather;
+}
